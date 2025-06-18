@@ -1,0 +1,8 @@
+# Ignore __pycache__ and compiled files
+__pycache__/
+*.pyc
+
+# Ignore model weights
+model/*.h5
+model/*.pt
+model/*.pkl

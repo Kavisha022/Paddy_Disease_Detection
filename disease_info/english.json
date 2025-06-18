@@ -1,0 +1,14 @@
+{
+  "Brown Spot": {
+    "reason": "Caused by the fungus Bipolaris oryzae due to warm, wet conditions.",
+    "solution": "Use resistant varieties and apply appropriate fungicides."
+  },
+  "Leaf Smut": {
+    "reason": "Caused by the fungus Entyloma oryzae in high humidity.",
+    "solution": "Use fungicide spray and proper field sanitation."
+  },
+  "Bacterial Blight": {
+    "reason": "Caused by Xanthomonas oryzae bacteria spread by wind and water.",
+    "solution": "Use certified seeds and avoid overhead irrigation."
+  }
+}
